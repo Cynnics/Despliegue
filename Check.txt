@@ -1,0 +1,29 @@
+
+Escritorio:
+Integrar la planificacion de rutas
+Editar Usuario (Telefono, ((Direccion Facturacion y Nif solo sea un cliente)
+**En Rutas borrar el boton de Actualizar y agregar sera asignar rutas 
+Mapa interactivo en ubicaciones 
+**Cambiar la generacion de albaranes, se tiene que hacer cuando esta preparado el pedido
+Cuando se firme el albaran se debe actualizar quien lo recibio.
+Ver albaran y factura desde la app
+
+Android:
+Notificacion Push
+Meter imagenes de los productos
+Autocompletar las direccciones con Places API
+
+
+TUTOR
+
+General
+6.2 - 6.5
+8.2
+8.4 - 8.5
+
+Applicacion
+1.3
+2 Entero
+3.2 Imagen?, 3 entero?
+5 Entero
+
