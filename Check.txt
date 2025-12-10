@@ -12,7 +12,7 @@ Android:
 Notificacion Push
 Meter imagenes de los productos
 Autocompletar las direccciones con Places API
-
+Quitar el Main y que haga de router el login
 
 TUTOR
 
@@ -26,4 +26,5 @@ Applicacion
 2 Entero
 3.2 Imagen?, 3 entero?
 5 Entero
+
 
