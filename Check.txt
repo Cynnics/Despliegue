@@ -2,9 +2,8 @@
 Escritorio:
 Integrar la planificacion de rutas
 Editar Usuario (Telefono, ((Direccion Facturacion y Nif solo sea un cliente)
-**En Rutas borrar el boton de Actualizar y agregar sera asignar rutas 
 Mapa interactivo en ubicaciones 
-**Cambiar la generacion de albaranes, se tiene que hacer cuando esta preparado el pedido
+Cambiar la generacion de albaranes, se tiene que hacer cuando esta preparado el pedido
 Cuando se firme el albaran se debe actualizar quien lo recibio.
 Ver albaran y factura desde la app
 
@@ -12,19 +11,27 @@ Android:
 Notificacion Push
 Meter imagenes de los productos
 Autocompletar las direccciones con Places API
-Quitar el Main y que haga de router el login
-
-TUTOR
 
 General
-6.2 - 6.5
-8.2
-8.4 - 8.5
 
-Applicacion
-1.3
-2 Entero
-3.2 Imagen?, 3 entero?
-5 Entero
+5.4 Añadir las herramientas de Android
+6.1 Añadir entorno de Android
+6.2-6.3 Script bbdd
+9
+10
+11
+12
+
+Desktop:
+2
+
+5-9
 
 
+Android:
+4.3 Poner mas problemas
+5.2 Adjuntar pruebas
+7.2 Lecciones aprendidas
+8. Coger Referencias
+9. Capturas y codigo relevante
+Flujo de datos arreglar
