@@ -12,23 +12,9 @@ Notificacion Push
 Meter imagenes de los productos
 Autocompletar las direccciones con Places API
 
+
 General
-
-5.4 Añadir las herramientas de Android
-6.1 Añadir entorno de Android
-6.2-6.3 Script bbdd
+8.4
 9
-10
-11
-12
-
-Desktop:
-2
-
-5-9
-
-
-Android:
-5.2 Adjuntar pruebas
-9. Capturas y codigo relevante
-
+10 Corregirlo
+12 Manual?
