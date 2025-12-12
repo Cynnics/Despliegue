@@ -29,9 +29,6 @@ Desktop:
 
 
 Android:
-4.3 Poner mas problemas
 5.2 Adjuntar pruebas
-7.2 Lecciones aprendidas
-8. Coger Referencias
 9. Capturas y codigo relevante
-Flujo de datos arreglar
+
